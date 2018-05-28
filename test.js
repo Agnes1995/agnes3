@@ -5,5 +5,5 @@ function test(x) {
 module.exports.add5 = test;
 
 console.log(test(5));
-
+//hello
 console.log(test(15));
